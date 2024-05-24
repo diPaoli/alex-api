@@ -14,6 +14,20 @@ def rota_teste():
 app.include_router(router)
 
 
+print('')
+print('')
+print('')
+print('')
+print('')
+print('TEste do Alex!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!')
+print('')
+print('')
+print('')
+print('')
+print('')
+print('')
+print('')
+
 
 if __name__ == '__main__':
     uvicorn.run(app, host='localhost', port=8000)
